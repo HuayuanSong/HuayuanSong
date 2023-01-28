@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 Welcome! My ![Visitor Count](https://profile-counter.glitch.me/HuayuanSong/count.svg) visitor
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuayuanSong&layout=compact)](https://github.com/HuayuanSong/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuayuanSong&layout=demo)](https://github.com/HuayuanSong/github-readme-stats)
 
-[![mico's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuayuanSong&show_icons=true&theme=dracula)](https://github.com/HuayuanSong/github-readme-stats)
+[![mico's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuayuanSong&show_icons=true&theme=dark)](https://github.com/HuayuanSong/github-readme-stats)
