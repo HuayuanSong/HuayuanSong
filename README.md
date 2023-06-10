@@ -17,5 +17,3 @@ Here are some ideas to get you started:
 Welcome! My ![Visitor Count](https://profile-counter.glitch.me/HuayuanSong/count.svg) visitor
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuayuanSong&layout=compact)
-
-[![mico's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuayuanSong&show_icons=true&theme=dark)](https://github.com/HuayuanSong/github-readme-stats)
