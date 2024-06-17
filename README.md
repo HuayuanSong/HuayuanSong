@@ -18,4 +18,4 @@ Welcome! My ![Visitor Count](https://profile-counter.glitch.me/HuayuanSong/count
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuayuanSong&layout=compact)
 
-Feel free to checkout ![Life expectancy in Japan - A global perspective](https://thedingodile.github.io/jekyll/update/2023/05/01/Life_expectancy.html) (:
+Feel free to checkout [Life expectancy in Japan - A global perspective](https://thedingodile.github.io/jekyll/update/2023/05/01/Life_expectancy.html) (;
