@@ -20,4 +20,4 @@ Welcome! My ![Visitor Count](https://profile-counter.glitch.me/HuayuanSong/count
 
 Currently finishing my Master's thesis in Geometric Deep Learning.
 
-Feel free to checkout [Life expectancy in Japan - A global perspective](https://thedingodile.github.io/jekyll/update/2023/05/01/Life_expectancy.html) (;
+-also; feel free to checkout [Life expectancy in Japan - A global perspective](https://thedingodile.github.io/jekyll/update/2023/05/01/Life_expectancy.html) (:
