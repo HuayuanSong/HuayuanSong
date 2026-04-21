@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **3Shape Advance**, AI-based CAD automation design software used in the hearing industry
+ 🔭 I’m currently working on **3Shape Advance**, AI design automation software used in the hearing industry
 
  </div>
 
